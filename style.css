@@ -1,0 +1,29 @@
+.jumbotron {
+    background-color: #a4d9ff;
+    padding-top: 5rem;
+  }
+  
+  #portfolio {
+    background-color: #a4d9ff;
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
+
+  .card {
+  border-radius: 30px;
+  overflow: hidden;
+  padding-bottom: 10px;
+}
+
+.card img {
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  padding: 20px;
+}
+
+.card-body a{
+  border-radius: 10px;
+  background-color: #a4d9ff;
+}
